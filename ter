@@ -1,14 +1,6 @@
-hello\
-\
+#include <stdio.h>
 
-
-
-erbger
-ererbg
-eb
-aerb
-rbe
- n
-r n
-th n
-
+void main ()
+{
+printf ("hello") ;
+}
